@@ -1,4 +1,4 @@
-# Python Fundamentals - Lab Exercises
+# 2 - Python Fundamentals - Lab Exercises
 Create a new cell for each question.
 
 ## Section 1
