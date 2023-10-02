@@ -28,5 +28,3 @@ Adjust your `say_job` function so that it has an optional argument called `excla
 ### Exercise 1.4
 Next week we're going to be using the [Pandas](https://pandas.pydata.org/) library. The main object we'll use is called a `DataFrame`. Do you think you could find the documentation for the `DataFrame`'s `.info` method? How many arguments does it take. How many are optional?
 
----
-
