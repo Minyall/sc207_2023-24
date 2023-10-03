@@ -69,4 +69,4 @@ Formatting text in markdown is fairly simple, and uses symbols to mark up how te
 
 ![Alt text](../images/markdown.png)
 
-> Even this guide was created using Markdown. [See for yourself](https://github.com/Minyall/sc207_2023-24/blob/main/jupyter_notes.md?plain=1)
+> Even this guide was created using Markdown. [See for yourself](https://github.com/Minyall/sc207_2023-24/blob/main/1_jupyter/jupyter_notes.md?plain=1)
