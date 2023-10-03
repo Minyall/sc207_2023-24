@@ -3,46 +3,45 @@
 
 Open the file browser
 
-[<img src="../images/file_browser_button.png" width="250"/>](../images/file_browser_button.png)
+![Alt text](../images/file_browser_button.png)
 
 Navigate your way to the folder where you want to keep your notebooks. If you are using a Lab machine, this will ideally be a folder in your OneDrive cloud storage or on a USB stick.
 
 If you open the wrong folder and need to go back a step, you can click on the appropriate folder to go back to on the file path displayed above the contents of your current folder.
 
-[<img src="../images/file_path.png" width="250"/>](../images/file_path.png)
+![Alt text](../images/file_path.png)
 
 If you need to create a new folder you can click the new directory button to the right of the blue + button.
 
-[<img src="../images/new_dir.png" width="250"/>](../images/new_dir.png)
+![Alt text](../images/new_dir.png)
 
 Make sure your path ends with the directory you want to store your new notebook in.
 
 ## Creating a new Notebook
 To create a new notebook click the blue + button
 
-[<img src="../images/file_path.png" width="250"/>](../images/file_path.png)
+![Alt text](../images/file_path.png)
 
 This will open the 'Launcher'. To create a new notebook click the Python icon under the heading `Notebook`
 
-[<img src="../images/jupyter_new-notebook.png" width="250"/>](../images/jupyter_new-notebook.png)
+![Alt text](../images/jupyter_new-notebook.png)
 
 This will create an `Untitled.ipynb` file in your directory which you will see in the file browser on the left.
 
 ## Renaming your notebook
 Your first action should be renaming your notebook to something more useful. Right click on `Untitled.ipynb` and select `Rename` from the menu.
 
-[<img src="../images/rename_submenu.png" width="250"/>](../images/rename_submenu.png)
+![Alt text](../images/rename_submenu.png)
 
 We suggest renaming to reflect the session number and content, for example `2_python_notes.ipynb`
 
-[<img src="../images/renaming.png" width="250"/>](../images/renaming.png)
+![Alt text](../images/renaming.png)
 
 Make sure your file ends with `.ipynb` or Jupyter lab won't understand how to treat the file.
 
 
 ## Jupyter Menu Bar
-[<img src="../images/jupyter_bar.png" width="500"/>](../images/jupyter_bar.png)
-
+![Alt text](../images/jupyter_bar.png)
 *Note: Your interface may vary slightly depending on version*
 
 The menu bar buttons, left to right are:
@@ -63,11 +62,11 @@ Code cells interpret their contents as if it is Python code and running the cell
 
 Markdown cells interpret their contents as formatted text, and are useful for keeping notes and breaking up your code with explanatory text. Markdown cells use simple symbols to set text as headings, create bullet points, bold text etc. Once text has been written in a markdown cell it must be 'Run' like a code cell to see the formatting.
 
-[<img src="../images/markdown_cell.png" width="300"/>](../images/markdown_cell.png)
+![Alt text](../images/markdown_cell.png)
 
 ## Markdown Basics
 Formatting text in markdown is fairly simple, and uses symbols to mark up how text should be formatted. Some common formatting options are shown below, but you can see more at [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/).
 
-[<img src="../images/markdown.png" width="500"/>](../images/markdown.png)
+![Alt text](../images/markdown.png)
 
 > Even this guide was created using Markdown. [See for yourself](https://github.com/Minyall/sc207_2023-24/blob/main/1_jupyter/jupyter_notes.md?plain=1)
