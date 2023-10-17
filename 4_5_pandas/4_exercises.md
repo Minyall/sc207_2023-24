@@ -19,6 +19,7 @@ Sort the dataset by `budget`. Which is the film with the largest budget? By defa
 
 ### Exercise 1.6
 What is the tagline for the film at index `3002`?
+
 ---
 
 ## Section 2
