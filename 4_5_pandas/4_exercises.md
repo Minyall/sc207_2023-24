@@ -22,4 +22,19 @@ What is the tagline for the film at index `3002`?
 ---
 
 ## Section 2
+Note: Make sure you still have your `movies` variable loaded. If not, repeat Exercise 1.1 before continuing.
+
+### Exercise 2.1
+
+How many documentaries are in our `movies` dataset? Start by looking at the `genres` column.
+
+### Exercise 2.2
+How many documentaries were originally in French? You'll need both the `genres` and `original_language` columns.
+
+### Exercise 2.3
+How many films in our dataset had above average `budget` but below average `revenue`?
+
+### Exercise 2.4
+Using the filtered data from Exercise 2.3, can you  identify the movie with the highest `budget`, and the movie with the lowest `revenue`?
+
 
