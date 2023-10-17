@@ -15,7 +15,7 @@ What are the names of the columns between `vote_average` and `crew`?
 What are the first and last movies listed in the dataset?
 
 ### Exercise 1.5
-Sort the dataset by `budget`. Which is the film with the largest budget? By default Pandas will sort lowest to highest, but can you find a way to reverse this behaviour? Try Googling for the solution. 
+Sort the dataset by `budget`. Which is the film with the largest budget? By default Pandas will sort lowest to highest, but can you find a way to reverse this behaviour? Try Googling or looking at the Pandas documentation for the solution. 
 
 ### Exercise 1.6
 What is the tagline for the film at index `3002`?
