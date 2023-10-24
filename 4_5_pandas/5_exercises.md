@@ -21,3 +21,18 @@ According to "Conspiracy Weekly", all movies that were supposedly directed by Ri
 
 ## Section 2
 ### Exercise 2.1
+Which `director`s have the largest count of films in our dataset? Who are the top 5?
+
+### Exercise 2.2
+
+Using `movies` can you group the data by director and then determine who has the highest **total** `revenue` across all their films?
+
+### Exercise 2.3
+Using `movies` can you group the data by director and then determine who has the highest **average** `revenue` across all their films? How does this list compare with the list based on total revenue?
+
+### Exercise 2.4
+Using `movies` can you group the data by director, and then create a dataframe that tells us each directors' `average_revenue`, `total_revenue`, `average_budget`, `total_budget` and `n_films`. Assign the result to a new variable called `director_performance` Afterwards experiment with sorting `director_performance` by different columns to see how it might change the ranking of the directors.
+
+### Exercise 2.5
+Let's save our `director_performance` data so we can use it later, and perhaps share it widely. Let's also save our cleaned up and date transformed `movies` dataframe whilst we're at it in case we want to come back and do further analysis. Save each dataframe using the most appropriate file format for the job. Make sure you don't overwrite an existing file and ensure the filename ends with the correct file extension.
+
