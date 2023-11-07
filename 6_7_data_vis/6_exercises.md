@@ -7,6 +7,8 @@ If starting a new notebook, ensure you have run the following code.
 import seaborn as sns
 titanic_df = sns.load_dataset('titanic')
 titanic_df['pclass'] = titanic_df['pclass'].astype('category')
+titanic_df['alive'] = titanic_df['alive'].astype('category')
+titanic_df['n_family'] = titanic_df['parch'] + titanic_df['sibsp']
 
 ```
 
