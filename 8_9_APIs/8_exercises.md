@@ -2,7 +2,7 @@
 Create a new cell for each question.
 
 ## For Information
-The basic web address ENDPOINT to interact with the Guardian API is below. You will need this for your code.
+You will need key URL information such as the correct web address for the Guardian API. This information and documentation links can be found in the Starter Notebook provided alongside the lecture notes on Moodle.
 
 
 ## Section 1
