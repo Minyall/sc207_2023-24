@@ -161,3 +161,6 @@ cython_debug/
 
 .DS_Store
 *.docx
+
+# Excluded due to sensitive data and API key
+8_9_APIs/PDFs/8_api_data.pdf
